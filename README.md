@@ -4,9 +4,9 @@ Le but de la généralisation est d’aider les étudiants à reconnaitre des fa
 
 | Généralisations  | Description | Exemples de livrables |
 | --- | --- | --- |
-| **Etude** | Etudier un concept, appréhender une nouvelle technologie, intégrer une connaissance ou un savoir faire | Aucun, ou alors une synthèse par exemple |
-| **Conception** | Représenter sous forme conceptuelle un système, selon une représentation graphique standard | Conception UML, SysML, diagramme réseaux, etc. |
-| **Reconception** | Faire évoluer une conception | Mise à jour d’une conception initiale |
+| **Etude** | Etudier un concept, appréhender une nouvelle technologie, intégrer une connaissance ou un savoir faire | Une synthèse (un AERCR par exemple) |
+| **Conception** | Concevoir intellectuellement un système, et le représenter sous forme conceptuelle (un *plan*), selon une représentation graphique standard | Conception UML, SysML, diagramme réseaux, etc. |
+| **Reconception** | Faire évoluer une conception, ou la repenser entièrement | Mise à jour d’une conception initiale |
 | **Rétro-ingénierie** | Réalisation d’une conception à partir de l’implémentation | Conception UML, SysML, diagramme réseaux, etc. |
 | **Modélisation** | Modéliser un système physique sous forme d’équations mathématiques | Formule mathématique |
 | **Orchestration** | Organiser une situation de travail concurrent ou une collaboration | Processus, algorithme d’orchestration |
