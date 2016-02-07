@@ -1,6 +1,6 @@
 # Guide de la généralisation en prosit
 
-Le but de la généralisation est d’aider les étudiants à reconnaitre des familles de problèmes afin d’être à même par la suite à reproduire les solutions dans des situations analogues. Ce document tente de lister de manière exhaustive les grandes familles de problèmes rencontrés.
+Le but de la généralisation est d’aider les étudiants à reconnaitre des **familles de problèmes** afin qu'ils soientà même par la suite de reproduire la méthode utilisée pour appréhender des problèmes analogues. Ce document tente de lister de manière exhaustive les grandes familles de problèmes rencontrées.
 
 | Généralisations  | Description | Exemples de livrables |
 | --- | --- | --- |
