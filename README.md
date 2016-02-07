@@ -2,6 +2,8 @@
 
 Le but de la généralisation est d’aider les étudiants à reconnaitre des **familles de problèmes**. Des problèmes d'une même famille pourront être résolus avec une méthodologie similaire dans un contexte différents. Ce document tente de lister de manière exhaustive les grandes familles de problèmes rencontrées.
 
+Dans la pédagogie par problème (PBL, ou APP en français), la généralisation est une étape du processus d'apprentissage. Elle vise à faire prendre du recul aux étudiants, pour qu'ils analysent la situation donnée et la manière qu'ils ont eu de l'appréhender. En termes plus savants, cette étape s'apparente à la [métacognition](https://fr.wikipedia.org/wiki/M%C3%A9tacognition).
+
 | Généralisations  | Description | Exemples de livrables |
 | --- | --- | --- |
 | **Etude** | Etudier un concept, appréhender une nouvelle technologie, intégrer une connaissance ou un savoir faire | Une synthèse (un AERCR par exemple) |
@@ -17,6 +19,8 @@ Le but de la généralisation est d’aider les étudiants à reconnaitre des **
 | **Qualification** | S’assurer de la viabilité d’une solution, de son adéquation avec un besoin fonctionnel ou technique | Stratégie de test, UAT, PV de recette |
 
 ## Variantes
+
+Ces grandes généralisations trouvent souvent des représentations plus concrètes. Voici une liste non exhaustive :
 
 | Généralisations  | Description | Exemples de livrables |
 | --- | --- | --- |
