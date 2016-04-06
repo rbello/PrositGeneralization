@@ -19,6 +19,7 @@ Dans la pédagogie par problème (PBL, ou APP en français), la généralisation
 | **Qualification** | S’assurer de la viabilité d’une solution, de son adéquation avec un besoin fonctionnel ou technique | Stratégie de test, UAT, PV de recette |
 | **Optimisation** | Chercher une ou plusieurs solutions optimale en fonction des contraintes, dans un ensemble continu ou discret. | Optimisation d'une fonction économique |
 | **Synthèse, Vulgarisation** | Résumer un concept de manière concise, extraire l’essentiel de la valeur informative, présenter l’information de manière simple (ex : schéma). | Document de synthèse, poster, briefing, etc. |
+|**Management des risques**| Définir, mettre en place et suivre une politique de gestion des risques. L'étude peut porter sur un projet, sur un SI, sur une production, etc. | Analyse des risques (Ex: EBIOS/MEHARI), PSSI, PRA/PCA, ... | 
 
 ## Variantes
 
